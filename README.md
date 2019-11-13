@@ -1,13 +1,12 @@
 JVanilla
 =======
-![Build Status][github-actions-image]
 
 JVanilla is a super-ligth replacement for jQuery library with simple JS Vanilla code. It supports event handling, ajax calls and other fun stuff.
 We can use the library method calls in the same JQuery way.
 
 Usage 
 -----
-
+```javascript
 <script type="text/javascript" src="JVanilla.js"></script>
 
 <script type="text/javascript">
@@ -46,6 +45,7 @@ Usage
     });
 
 </script>
+```
 
 Browser compatibility
 ---------------------
@@ -57,4 +57,4 @@ Browser compatibility
 
 Copyright and license
 ---------------------
-The license is available within the repository in the [LICENSE][license] file.
+The license is available within the repository in the [LICENSE](LICENSE) file.
